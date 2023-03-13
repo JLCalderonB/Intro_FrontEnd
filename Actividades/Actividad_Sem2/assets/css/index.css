@@ -1,0 +1,93 @@
+#main-title {
+    background-color: rgb(40 214 214 / 22%);
+}
+
+#main-logo {
+    padding: 30px;
+}
+
+#info-section {
+    display: block;
+}
+
+#first-column {
+    background-color: red;
+    text-align: center;
+    width: 200px;
+}
+
+#second-column {
+    background-color: orange;
+    text-align: center;
+    width: 2000px;
+}
+
+#theird-column {
+    background-color: blueviolet;
+    text-align: center;
+    width: 200px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+
+#first-col-content {
+
+    height: 500px;
+    background-color: rgb(248, 197, 197);
+}
+
+#second-col-content {
+
+    background-color: rgb(243, 225, 192);
+    height: 500px;
+}
+
+
+#theird-col-content {
+
+    background-color: rgb(199, 159, 236);
+    height: 500px;
+}
+
+#diagrama-section {
+    display: block;
+    text-align: center;
+    background-color: rgb(7, 10, 0);
+}
+
+#title-diagram {
+    text-align: center;
+    padding: 10px;
+    border-style: ridge;
+    background-color: rgb(236, 231, 231);
+
+}
+
+#diagram-detail {
+    display: block;
+}
+
+#diagrama-componentes {
+    width: 650px;
+    height: 500px;
+    margin: 12px;
+    padding: 0 auto;
+    text-align: initial;
+    border-style: ridge;
+    background-color: rgb(236, 231, 231)
+}
+
+#diagrama {
+    width: 650px;
+    height: 500px;
+    margin: 12px;
+    border-style: ridge;
+    background-color: rgb(236, 231, 231)
+}
+
+.container-fluid {
+    background-color: rgb(248 255 255);
+}
